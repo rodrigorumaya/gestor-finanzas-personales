@@ -1,0 +1,29 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporales
+*.tmp
+*.temp
+
+# Node (si decides agregar dependencias en el futuro)
+node_modules/
+package-lock.json
+
+# Archivos de respaldo
+*.backup
+*.bak
+
+# Archivos personales
+notas.txt
+TODO.md
